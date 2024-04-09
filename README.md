@@ -20,7 +20,8 @@
     D. Tools and Libraries
 2. [Data Collection](https://www.kaggle.com/ruiqurm/lianjia)
 3.  Generic Flow Of Project
-4. [EDA](https://github.com/abhishekjoshi007/Predictive-Analysis-of-House-Prices-Using-Machine-Learning/blob/main/Housing_Price_Predication_Project_EDA.ipynb)<br>
+https://github.com/abhishekjoshi007/Predictive-Analysis-of-House-Prices-Using-Machine-Learning/blob/main/Picture_For_README/18.png
+4. [EDA](https://github.com/abhishekjoshi007/Predictive-Analysis-of-House-Prices-Using-Machine-Learning/blob/main/Picture_For_README/1.png)<br>
     A. Data Cleaning<br>
     B. Feature Engineering<br>
     C. Data Normalization
